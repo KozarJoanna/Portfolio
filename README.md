@@ -1,2 +1,34 @@
-# Portfolio
-More about me
+# More about me
+
+According to my friends, I have always had an eye for detail. Adding to this my curiosity about futurology and new technologies, it's no wonder when I took part in a software testing marathon one winter evening, I became more interested in development opportunities in this field. Therefore I decided to take an intensive "Software Tester" course.  I like to gain new knowledge and every day I take steps in this direction to become a full-fledged software tester.
+
+After-hours dog mum and escape rooms enthusiast.
+
+"Automata are perfect and limited, while humans are imperfect and unlimited."   -  Stanislaw Lem from the book Magellan's Cloud
+
+### Skills 
+- Creating test cases 
+- Bug reporting 
+- Theoretical knowledge from the ISTQB 
+- Agile methodologies, SCRUM
+- SQL / MySQL database basics 
+- API testing 
+- Git 
+- DevTools 
+- Basics of performance testing
+
+### My Inspirations
+- [Testing Parrot Podcast](https://open.spotify.com/show/7Hdtp7cilHZ1DGnqwhWLOz)
+- [Testowanie oprogramowania Podcast by PING](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd?si=eeaa6ca9baca4b86)
+- [Agile Couches' Corner Podcast](https://open.spotify.com/show/2jlYwMiw7W13pQ3ricLEaE?si=a017f1acb20b49c2)
+- [jaktestowac.pl](https://www.youtube.com/@jaktestowac) 
+- [testuj.pl](https://www.youtube.com/@testujplcommunity) 
+
+  ### Books 
+- Certyfikowany Tester ISTQB Poziom Podstawowy - Adam Roman i Lucjan Stapp 
+- Zawód Tester - Radosław Smilgin 
+- Ścieżka Testera - Rafał Podraza
+  
+  ### ...and other books 
+- Otoczeni przez idiotów - Thomas Erikson
+- Anthology of Marek Krajewski Books
