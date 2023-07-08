@@ -4,7 +4,7 @@ According to my friends, I have always had an eye for detail. Adding to this my 
 
 After-hours dog mum and escape rooms enthusiast.
 
-"Automata are perfect and limited, while humans are imperfect and unlimited."   -  Stanislaw Lem from the book Magellan's Cloud
+_"Automata are perfect and limited, while humans are imperfect and unlimited."_   -  Stanislaw Lem from the book Magellan's Cloud
 
 ### Skills 
 - Creating test cases 
