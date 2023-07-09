@@ -6,6 +6,12 @@ After-hours dog mum and escape rooms enthusiast.
 
 _"Automata are perfect and limited, while humans are imperfect and unlimited."_   -  Stanislaw Lem from the book Magellan's Cloud
 
+### My projects
+- [GoIT QA Marathon](https://github.com/KozarJoanna/my-projects/tree/main/GoIT%20QA%20Marathon)
+- [GoIT Code Marathon](https://github.com/KozarJoanna/my-projects/tree/main/GoIT%20Code%20Marathon)
+
+### Courses and certificates
+Kurs JIRA od podstaw- zarządzanie projektami [UDEMY](https://www.udemy.com/certificate/UC-b638b7cf-b5c0-4629-9cfa-38fcae7a687b/)
 ### Skills 
 - Creating test cases 
 - Bug reporting 
