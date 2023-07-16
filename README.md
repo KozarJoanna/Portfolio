@@ -11,7 +11,10 @@ _"Automata are perfect and limited, while humans are imperfect and unlimited."_ 
 - [GoIT Code Marathon](https://github.com/KozarJoanna/my-projects/tree/main/GoIT%20Code%20Marathon)
 
 ### Courses and certificates
-Kurs JIRA od podstaw- zarządzanie projektami [UDEMY](https://www.udemy.com/certificate/UC-b638b7cf-b5c0-4629-9cfa-38fcae7a687b/)
+JIRA Basic - projects management [UDEMY](https://www.udemy.com/certificate/UC-b638b7cf-b5c0-4629-9cfa-38fcae7a687b/)
+
+Specialist IT Service Desk - Beginner [UDEMY](https://www.udemy.com/certificate/UC-62300c3f-b77c-4979-8548-c8ca9721d729/)
+
 ### Skills 
 - Creating test cases 
 - Bug reporting 
