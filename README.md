@@ -9,6 +9,7 @@ _"Automata are perfect and limited, while humans are imperfect and unlimited."_ 
 ### My projects
 - [GoIT QA Marathon](https://github.com/KozarJoanna/my-projects/tree/main/GoIT%20QA%20Marathon)
 - [GoIT Code Marathon](https://github.com/KozarJoanna/my-projects/tree/main/GoIT%20Code%20Marathon)
+- [Website testing SKLEPTEST.PL](https://github.com/KozarJoanna/my-projects/tree/main/Website%20testing%20SKLEPTEST.PL)
 
 ### Courses and certificates
 JIRA Basic - projects management [UDEMY](https://www.udemy.com/certificate/UC-b638b7cf-b5c0-4629-9cfa-38fcae7a687b/)
