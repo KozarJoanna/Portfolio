@@ -12,6 +12,9 @@ _"Automata are perfect and limited, while humans are imperfect and unlimited."_ 
 - [Website testing SKLEPTEST.PL](https://github.com/KozarJoanna/my-projects/tree/main/Website%20testing%20SKLEPTEST.PL)
 
 ### Courses and certificates
+
+Practical Software Testing - [UDEMY](https://www.udemy.com/certificate/UC-0d7b608f-6bbc-4fc8-aeac-96bd3c649e4c/)
+
 Postman - testing REST API [UDEMY](https://www.udemy.com/certificate/UC-9ac8b115-4d24-4e65-ac85-d515361cded3/)
 
 JIRA Basic - projects management [UDEMY](https://www.udemy.com/certificate/UC-b638b7cf-b5c0-4629-9cfa-38fcae7a687b/)
